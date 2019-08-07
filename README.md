@@ -23,7 +23,7 @@ npm install dev
 ```
 ## Technologies
 Frontend:
-React.JS, Axios, SemanticUI
+React.JS, Axios, React-Bootstrap
 
 Backend: Node.js, Express, MySQL
 
