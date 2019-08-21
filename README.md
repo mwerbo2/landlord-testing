@@ -35,6 +35,8 @@ Backend: Node.js, Express, MySQL
 
 ## Data Diagrams
 
+Users, Reviews, Validations, Buildings, Violations
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
