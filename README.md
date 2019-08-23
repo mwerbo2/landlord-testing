@@ -39,6 +39,14 @@ Users, Reviews, Validations, Buildings, Violations
 
 #UI Data Layout
 
+#Wireframes
+![Home](https://i.imgur.com/fWXfNMB.png "Home")
+![Search results](https://i.imgur.com/1xk4Qay.png "Search results")
+![Selected result with violations](https://i.imgur.com/PtE64Gf.png "Selected result with violations")
+![Selected result with reviews](https://i.imgur.com/MIoC42D.png "Selected result with reviews")
+![Sign up](https://i.imgur.com/pTOtwWB.png "Sign up")
+![Log in](https://i.imgur.com/vKC43rh.png "Log in")
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
