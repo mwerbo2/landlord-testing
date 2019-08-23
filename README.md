@@ -38,6 +38,7 @@ Backend: Node.js, Express, MySQL
 Users, Reviews, Validations, Buildings, Violations
 
 #UI Data Layout
+![UI Data](https://i.imgur.com/tgZhIwL.jpg "UI Data")
 
 #Wireframes
 ![Home](https://i.imgur.com/fWXfNMB.png "Home")
