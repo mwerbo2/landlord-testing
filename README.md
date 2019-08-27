@@ -35,7 +35,7 @@ Backend: Node.js, Express, MySQL
 
 ## Data Diagrams
 
-Users, Reviews, Validations, Buildings, Violations
+![Data Model](https://i.imgur.com/lYH1aGA.png "Data Model")
 
 #UI Data Layout
 ![UI Data](https://i.imgur.com/tgZhIwL.jpg "UI Data")
