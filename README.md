@@ -48,6 +48,18 @@ Backend: Node.js, Express, MySQL
 ![Sign up](https://i.imgur.com/pTOtwWB.png "Sign up")
 ![Log in](https://i.imgur.com/vKC43rh.png "Log in")
 
+## Sprint Plan
+Sprint 1  
+Set up:  
+* Webpack  
+* Mocha & Jasmine  
+* Redux  
+* Secured routes & client auth  
+* Scaffold component layout
+
+
+
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
