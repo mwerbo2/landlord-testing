@@ -1,0 +1,32 @@
+{
+  "name": "landlord",
+  "version": "1.0.0",
+  "description": "Landlord is a review platform for rental units.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwerbo2/landlord.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mwerbo2/landlord/issues"
+  },
+  "homepage": "https://github.com/mwerbo2/landlord#readme",
+  "devDependencies": {
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "webpack": "^4.39.3",
+    "webpack-cli": "^3.3.8"
+  },
+  "dependencies": {
+    "@babel/core": "^7.6.0",
+    "@babel/preset-env": "^7.6.0",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.6"
+  }
+}
